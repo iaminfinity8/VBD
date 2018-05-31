@@ -18,9 +18,11 @@ Good, Well Functioning Microphone & Speakers
 
 ### Installing
 
-1. Extract the given .zip file
+1. Download the application zip from : https://drive.google.com/open?id=11BsUmEaebWEUhR9AM4i125BYsOrXbURC
 
-2. Start Application by Double Clicking on VBD.jar
+2. Extract the given .zip file
+
+3. Start Application by Double Clicking on VBD.jar
 
 ## Running the tests
 

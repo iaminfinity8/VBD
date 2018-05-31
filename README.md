@@ -62,7 +62,6 @@ For deployment no additional features/steps required other than mentioned above.
 * [Netbeans] - IDE used for development.
 * [Gluon SceneBuilder] - used for designing the rich GUI with JAVAFX.
 
-##Contibuting
 
 ## Versioning
 
@@ -79,9 +78,6 @@ Versions Available of Dictionary Application are : 1.0(March 2018),2.0(beta).
 * **Shubham Thorve** - Programming and Testing of Application
 
 * **Vijayendra Gaikwad** - Project Guide
-
-
-## License
 
 
 

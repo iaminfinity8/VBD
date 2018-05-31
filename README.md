@@ -22,7 +22,7 @@ Good, Well Functioning Microphone & Speakers
 
 2. Extract the given .zip file
 
-3. Start Application by Double Clicking on VBD.jar
+3. Start Application by Double Clicking on VBD.exe
 
 ## Running the tests
 
@@ -59,10 +59,10 @@ For deployment no additional features/steps required other than mentioned above.
 ## Built With
 
 * [JAVAFX] - JAVA library used for rich user interface desktop application.
-* [Sphinx4] - Open source speech recognition API.
-* [MARYTTS] - Open source speech synthesis API.
+* [Sphinx4](https://cmusphinx.github.io/) - Open source speech recognition API.
+* [MARYTTS](http://mary.dfki.de/) - Open source speech synthesis API.
 * [Netbeans] - IDE used for development.
-* [Gluon SceneBuilder] - used for designing the rich GUI with JAVAFX.
+* [Gluon SceneBuilder](http://gluonhq.com/products/scene-builder/) - used for designing the rich GUI with JAVAFX.
 
 
 ## Versioning

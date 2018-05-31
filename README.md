@@ -4,7 +4,7 @@ Dictionary Application with Speech Recognition and Speech Synthesis
 
 ## Getting Started
 
-You do not need to install it seperately, it is provided in zip format so it is directly started by launching the JAR (EXE if Any). 
+You do not need to install it seperately, it is provided in zip format so it is directly accessable by extracting the zip file and executing provided executable file.
 
 ### Prerequisites
 
